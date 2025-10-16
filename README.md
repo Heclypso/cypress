@@ -4,7 +4,7 @@ A atividade visa praticar testes que simulam o comportamento do usuário no site
 
 ## Tecnologias Usadas
 
-- **Cypress**: realizar testes que simulam a interação do usuário.
+- **Cypress**: realizar os testes.
   
 ## Técnicas e fundamentos desenvolvidos
 
